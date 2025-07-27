@@ -26,7 +26,7 @@
 
 ### 🏆 Key Achievements:
 
-- ⭐ **Highest LeetCode Rating: 3049** (Old Account)
+- ⭐ **CTF Winner**
 - 🥇 **University Rank 1 - Advent of Code**
 - 🏆 **Winner of 30+ National & International Hackathons**
 - 💼 Internships at:
@@ -39,11 +39,6 @@
 ---
 
 ### 🛠️ Languages & Tools:
-<!-- (Keep your existing detailed tech stack, no changes needed here) -->
-
-[Include your full tools section as is, since it’s already comprehensive.]
-
----
 
 ### 📊 GitHub Stats:
 
