@@ -13,7 +13,7 @@
 
 ---
 
-- 🔭 I’m currently working on: [Blood Donation App](https://github.com/blackseashark5/srm-blood-bank)
+- 🔭 I’m currently working on: [AI Powered CRM Tool](https://github.com/blackseashark5/srm-blood-bank)
 - 🌱 Learning: **DevOps, Hadoop, Cloud-Native technologies**
 - 👯 Open to collaborate on: [Phishing Detection Project](https://github.com/blackseashark5/phishing-detection)
 - 👨‍💻 All of my projects: [GitHub Portfolio](https://github.com/blackseashark5)
@@ -26,8 +26,7 @@
 
 ### 🏆 Key Achievements:
 
-- ⭐ **Highest LeetCode Rating: 3049** (Old Account – confirmed via LinkedIn post
-- 🔁 **Created a new LeetCode account** – for fun & fresh challenges
+- ⭐ **Highest LeetCode Rating: 3049** (Old Account)
 - 🥇 **University Rank 1 - Advent of Code**
 - 🏆 **Winner of 30+ National & International Hackathons**
 - 💼 Internships at:
