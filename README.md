@@ -1,5 +1,27 @@
 <h1 align="center">Hi 👋, I'm Ranveer</h1>
-<h3 align="center">A passionate full-stack & frontend developer from India and I have created metacognition dataset and benchmark and Pakistan_Poverty_Dataset_1980_2024 on kaggle
+<h3 align="center">A passionate full-stack & frontend developer from India. This is our research lab website (https://www.blackseashark5lab.in/) which contains 6 sections BlackSeaShark5 AI
+Reasoning, scaling & evaluation
+Researching the foundations of machine intelligence — from large-scale reasoning systems and emergent capabilities to rigorous evaluation science. We build open models, benchmarks, and training infrastructure that advance the frontier of artificial intelligence while remaining fully reproducible.
+02
+BlackSeaShark5 Quantum
+Computing, sensing & cryptography
+Advancing quantum information science across computing architectures, sensing platforms, and post-quantum cryptographic protocols. Our work spans superconducting qubit systems, photonic networks, and error-correcting codes designed for fault-tolerant operation at scale.
+03
+BlackSeaShark5 Medical
+Diagnostics, genomics & therapeutics
+Bridging computational science and clinical medicine to develop diagnostic tools, genomic analysis pipelines, and therapeutic discovery platforms. We partner with hospitals and research institutions to translate open science into measurable patient outcomes.
+04
+BlackSeaShark5 Neuro / BCI
+Neural interfaces & brain mapping
+Developing bidirectional brain-computer interfaces, neural decoding algorithms, and high-resolution cortical mapping techniques. Our research aims to restore communication and motor function for patients with neurological conditions while advancing fundamental neuroscience.
+05
+BlackSeaShark5 Computer Vision
+Visual intelligence, perception & scene understanding
+Advancing computer vision systems that enable machines to interpret, analyse, and understand visual information. Our research spans object detection and tracking, image segmentation, video analytics, 3D scene reconstruction, and vision-based perception, with applications in autonomous systems, medical imaging, intelligent surveillance, and real-world visual understanding.
+06
+BlackSeaShark5 Geopolitics
+Geostrategy, global security & technology
+Analysing the intersection of geopolitics, international relations, strategic affairs, and emerging technologies. Our research examines great-power competition, defence and security, regional conflicts, and I have created metacognition dataset and benchmark and Pakistan_Poverty_Dataset_1980_2024 on kaggle
 @misc{blackseashark5_blackseasharkgcvt_2026,
 	title={Pakistan_Poverty_Dataset_1980_2024},
 	url={https://www.kaggle.com/dsv/18645016},
